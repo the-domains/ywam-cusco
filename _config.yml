@@ -1,0 +1,14 @@
+layout_spectrum: 0.8701518
+typography_spectrum: 0.7352445
+color:
+  saturation: 0.7639123
+  brandStrength: 0.5033727
+  lightness: 0.5278246
+  brandColors:
+    - '#EBE7E4'
+    - '#EB0B26'
+    - '#D86755'
+    - '#2A201E'
+    - '#918886'
+  rhythmicContrast: 0.7386172
+name: Ywam Cusco
