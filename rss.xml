@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ywam Cusco]]></title>
-        <description><![CDATA[Ywam Cusco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Youth With A Mission Cusco]]></title>
+        <description><![CDATA[Youth With A Mission Cusco]]></description>
+        <link>https://thegrid.ai/ywam-cusco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 18:18:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 18:40:36 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ywam-cusco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[YWAM Cusco]]></title>
+            <description><![CDATA[<article><h1>YWAM Cusco</h1><p>To RESTORE, DISCIPLE, TRAIN, EQUIP and SEND believers from Cusco to the rest of Peru and the world. Our vision is to serve Peruvians, the Quechua and the 2 million backpackers that live in, or visit our city.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a6c741cd275b6b8ca876682b52e75db7/croprotate.jpg?cropheight=200&cropwidth=200&degrees=0&input=https%3A%2F%2Fs0.wp.com%2Fi%2Fblank.jpg&x=0&y=0"></article>]]></description>
+            <link>http://ywamcusco.com/</link>
+            <guid isPermaLink="false">25ab6a12-c06f-40d5-80a6-e4f2bf18c4fd</guid>
+            <pubDate>Mon, 08 Feb 2016 18:40:36 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>We are so excited for our DTS starting the 26th of February!! There is still space if you are interested or know someone who is! Email us at ywamcusco@gmail.com for more info</p>]]></description>
-            <link>undefined9ab5f335-f71b-4636-90eb-2abdf2554f0b/index.html</link>
+            <link>https://thegrid.ai/ywam-cusco/9ab5f335-f71b-4636-90eb-2abdf2554f0b/index.html</link>
             <guid isPermaLink="false">9ab5f335-f71b-4636-90eb-2abdf2554f0b</guid>
             <pubDate>Mon, 08 Feb 2016 18:18:15 GMT</pubDate>
         </item>
