@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ywam Cusco]]></title>
+        <description><![CDATA[Ywam Cusco]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Feb 2016 18:18:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>We are so excited for our DTS starting the 26th of February!! There is still space if you are interested or know someone who is! Email us at ywamcusco@gmail.com for more info</p>]]></description>
+            <link>undefined9ab5f335-f71b-4636-90eb-2abdf2554f0b/index.html</link>
+            <guid isPermaLink="false">9ab5f335-f71b-4636-90eb-2abdf2554f0b</guid>
+            <pubDate>Mon, 08 Feb 2016 18:18:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
