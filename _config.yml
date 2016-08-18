@@ -1,5 +1,8 @@
+name: Ywam Cusco
+favicon: null
+layout_spectrum: 0.23917
+typography_spectrum: 0.8102867
 title: Youth With A Mission Cusco
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5625
-  brandStrength: 0.4375
-  rhythmicContrast: 0.25
   brandColors:
     - '#91aac8'
     - '#b4c7d5'
     - '#21242d'
     - '#393d49'
     - '#727b8a'
+  brandStrength: 0.4375
   lightness: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Ywam Cusco
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.8102867
-layout_spectrum: 0.7301855
+  saturation: 0.5625
+  rhythmicContrast: 0.25
+purpose: []
